@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com, when you add new pages to the web page please regenerate the sitemap on sitemap.org (Ik; joris heb dit zo gedaan omdat het 100x mmakkelijker was en t gwn werkt :) -->
+
+
+<url>
+  <loc>https://www.webmetry.nl/</loc>
+  <lastmod>2021-10-24T21:37:49+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.webmetry.nl/index.html</loc>
+  <lastmod>2021-10-24T21:37:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.webmetry.nl/team.html</loc>
+  <lastmod>2021-10-23T17:02:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.webmetry.nl/why-us.html</loc>
+  <lastmod>2021-10-23T17:02:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.webmetry.nl/FAQ.html</loc>
+  <lastmod>2021-10-23T17:02:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.webmetry.nl/websites.html</loc>
+  <lastmod>2021-10-23T17:02:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.webmetry.nl/small-websites.html</loc>
+  <lastmod>2021-10-23T17:02:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.webmetry.nl/big-websites.html</loc>
+  <lastmod>2021-10-23T17:02:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.webmetry.nl/websites-others.html</loc>
+  <lastmod>2021-10-23T17:02:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.webmetry.nl/partners.html</loc>
+  <lastmod>2021-10-23T17:02:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.webmetry.nl/contact-us.html</loc>
+  <lastmod>2021-10-23T17:02:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.webmetry.nl/admin-login.html</loc>
+  <lastmod>2021-10-23T17:02:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>

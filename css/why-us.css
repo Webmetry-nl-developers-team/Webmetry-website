@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    background-size: cover;
+}
+
+nav {
+    width: 100%;
+    height: 60px;
+    background-color: lightskyblue;
+}
+
+.activemenu {
+    background-color: rgb(1, 149, 218);
+}
+
+.activesubmenu {
+    background-color: #8f9494;
+    border-radius: 10px;
+}
+
+.activesubmenu:hover {
+    background-color: rgb(128, 128, 128);
+}
+
+nav p {
+    font-family: Arial;
+    color: #222;
+    font-size: 24px;
+    line-height: 55px;
+    float: left;
+    padding: 0px 20px;
+}
+
+nav ul {
+    float: right;
+    padding: 0px 250px;
+    padding-right: 7%;
+}
+
+nav ul li {
+    float: left;
+    list-style: none;
+    position: relative;
+}
+
+nav ul li:hover {
+    background-color: rgb(65, 182, 255);
+}
+
+nav ul li a {
+    display: block;
+    font-family: Arial;
+    color: #222;
+    font-size: 14px;
+    padding: 22px 14px;
+    text-decoration: none;
+}
+
+nav ul li ul {
+    display: none;
+    position: absolute;
+    background-color: #fff;
+    padding: 5px;
+    border-radius: 0px 0px 8px 8px;
+}
+
+nav ul li:hover ul {
+    display: block;
+}
+
+nav ul li ul li {
+    width: 180px;
+    border-radius: 4px;
+}
+
+nav ul li ul li a {
+    padding: 8px 14px;
+}
+
+nav ul li ul li a:hover {
+    background-color: #a5a5a5;
+    border-radius: 10px;
+}
+
+.bodyy {
+    padding-left: 130px;
+    padding-right: 130px;
+    background-color: white;
+}
+
+.bodygezeik {
+    background-color: white;
+}
+
+.space {
+    padding: 10px;
+    background-color: #363636;
+}
+
+.introduction-title {
+    text-align: center;
+    font-size: 30px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-image: url(../images/background2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.introduction-title h1 {
+    color: black;
+    animation: fadeInAnimation ease 3s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+input[type=submit] {
+    background-color: #8f9494;
+    border: none;
+    width: 20%;
+    color: white;
+    font-weight: bold;
+    padding: 1em 5;
+    border-radius: .5em;
+    font-size: 1.3em;
+    cursor: pointer;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+input[type=submit]:hover {
+    background-color: #5d5f5f;
+}
+
+.footer p {
+    text-align: center;
+    text-justify: auto;
+    color: #222;
+    border: 1px solid #707070;
+    width: fixed;
+    background-color: white;
+    padding: 10px;
+    box-sizing: border-box;
+    font-size: 15px;
+    flex-direction: column;
+}
