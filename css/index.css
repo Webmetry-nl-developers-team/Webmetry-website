@@ -166,16 +166,8 @@ input[type=button]:hover {
     transition: all 200ms ease;
 }
 
-.ownerpfp:hover {
-    -webkit-filter: brightness(65%);
-    cursor: pointer;
-}
-
-.web-dev:hover {
-    -webkit-filter: brightness(65%);
-    cursor: pointer;
-}
-
+.ownerpfp:hover,
+.web-dev:hover,
 .web-design:hover {
     -webkit-filter: brightness(65%);
     cursor: pointer;
