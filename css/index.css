@@ -24,11 +24,14 @@ header {
     background-color: white;
 }
 
-.space {
-    border-radius: 20px;
+
+/* .space {
+
     padding: 5px;
+    width: 40%;
+    align-items: center;
     background-color: #363636;
-}
+} */
 
 .titletext {
     padding: 20px;
